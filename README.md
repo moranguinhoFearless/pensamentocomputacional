@@ -1,1 +1,1 @@
-# pensamentocomputacional
+# pc
